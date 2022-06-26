@@ -44,17 +44,17 @@ global.doc6 = 'application/vnd.android.package-archive'
 global.owner = ['989332772221'] //ur owner number
 global.ownername = "samo._.el"
 global.ytname = "my number = 989332772221" //ur yt chanel name
-global.socialm = "my IG = @samo._.el" //ur github or insta name
+global.socialm = "IG: @samo._.el" //ur github or insta name
 global.location = "#iran, #zahedan" //ur location
 
 //bot bombdy
 global.botname = "samo._.el" //ur bot name
-global.websitex = "" //ur website
+global.websitex = " " //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
 global.packname = "samo._.el Bot Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
 global.author = "🌘🔥 @Samo._.el bot"
-global.themeemoji = "🇮🇷"
-global.reactmoji = "🇮🇷"
+global.themeemoji = " 🇮🇷 "
+global.reactmoji = " 🇮🇷 "
 global.ownertag = ['989332772221'] //ur owner tag
 global.ownernummenu = ['989332772221'] //ur owner number in menu and all
 global.watermark = "@samo._.el" //ur watermark
